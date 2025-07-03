@@ -36,10 +36,8 @@
     {
         // Code here or
         var numSplitToIntList = numbers.Split(' ').Select(x => int.Parse(x));
-        var max = numbers.Split(' ').Select(x => int.Parse(x)).Max();
-        var min = numbers.Split(' ').Select(x => int.Parse(x)).Min();
-
-
+        var max = numSplitToIntList.Max();
+        var min = numSplitToIntList.Min();
         return $"{max} {min}";
     }
 
