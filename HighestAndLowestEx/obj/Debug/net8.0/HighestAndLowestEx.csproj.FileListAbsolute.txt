@@ -1,0 +1,14 @@
+C:\Users\louag\source\repos\HighestAndLowestEx\HighestAndLowestEx\bin\Debug\net8.0\HighestAndLowestEx.exe
+C:\Users\louag\source\repos\HighestAndLowestEx\HighestAndLowestEx\bin\Debug\net8.0\HighestAndLowestEx.deps.json
+C:\Users\louag\source\repos\HighestAndLowestEx\HighestAndLowestEx\bin\Debug\net8.0\HighestAndLowestEx.runtimeconfig.json
+C:\Users\louag\source\repos\HighestAndLowestEx\HighestAndLowestEx\bin\Debug\net8.0\HighestAndLowestEx.dll
+C:\Users\louag\source\repos\HighestAndLowestEx\HighestAndLowestEx\bin\Debug\net8.0\HighestAndLowestEx.pdb
+C:\Users\louag\source\repos\HighestAndLowestEx\HighestAndLowestEx\obj\Debug\net8.0\HighestAndLowestEx.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\louag\source\repos\HighestAndLowestEx\HighestAndLowestEx\obj\Debug\net8.0\HighestAndLowestEx.AssemblyInfoInputs.cache
+C:\Users\louag\source\repos\HighestAndLowestEx\HighestAndLowestEx\obj\Debug\net8.0\HighestAndLowestEx.AssemblyInfo.cs
+C:\Users\louag\source\repos\HighestAndLowestEx\HighestAndLowestEx\obj\Debug\net8.0\HighestAndLowestEx.csproj.CoreCompileInputs.cache
+C:\Users\louag\source\repos\HighestAndLowestEx\HighestAndLowestEx\obj\Debug\net8.0\HighestAndLowestEx.dll
+C:\Users\louag\source\repos\HighestAndLowestEx\HighestAndLowestEx\obj\Debug\net8.0\refint\HighestAndLowestEx.dll
+C:\Users\louag\source\repos\HighestAndLowestEx\HighestAndLowestEx\obj\Debug\net8.0\HighestAndLowestEx.pdb
+C:\Users\louag\source\repos\HighestAndLowestEx\HighestAndLowestEx\obj\Debug\net8.0\HighestAndLowestEx.genruntimeconfig.cache
+C:\Users\louag\source\repos\HighestAndLowestEx\HighestAndLowestEx\obj\Debug\net8.0\ref\HighestAndLowestEx.dll
